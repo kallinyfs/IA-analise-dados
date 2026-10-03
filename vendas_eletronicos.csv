@@ -1,0 +1,301 @@
+id_venda,data,categoria,preco_unitario,quantidade,regiao,canal_venda,avaliacao,valor_total
+1,2024-01-01,Notebooks,6784.48,2,Nordeste,Marketplace,4.2,13568.96
+2,2024-01-01,Áudio,331.65,3,Sudeste,Marketplace,4.0,994.95
+3,2024-01-01,Notebooks,5448.37,1,Sudeste,Site,4.1,5448.37
+4,2024-01-01,Smartphones,3154.05,1,Sudeste,Site,4.1,3154.05
+5,2024-01-02,Acessórios,202.17,4,Sudeste,Marketplace,3.8,808.68
+6,2024-01-03,TVs,3636.32,1,Nordeste,Site,4.4,3636.32
+7,2024-01-03,Notebooks,4617.99,2,Centro-Oeste,Loja Física,5.0,9235.98
+8,2024-01-04,Notebooks,6017.6,1,Sudeste,Loja Física,3.2,6017.6
+9,2024-01-04,Acessórios,77.98,2,Sul,Instagram,4.3,155.96
+10,2024-01-04,Áudio,338.69,5,Nordeste,Site,3.7,1693.45
+11,2024-01-05,Áudio,795.13,4,Norte,Instagram,4.4,3180.52
+12,2024-01-05,TVs,3434.31,1,Nordeste,Loja Física,4.1,3434.31
+13,2024-01-05,Smartphones,2083.77,2,Sudeste,Instagram,4.5,4167.54
+14,2024-01-06,Notebooks,4521.31,1,Nordeste,Site,4.7,4521.31
+15,2024-01-06,Áudio,644.63,1,Sudeste,Loja Física,4.2,644.63
+16,2024-01-06,Acessórios,87.42,1,Norte,Loja Física,4.7,87.42
+17,2024-01-06,Smartphones,2641.96,1,Sudeste,Site,2.9,2641.96
+18,2024-01-07,Acessórios,154.68,4,Nordeste,Site,4.9,618.72
+19,2024-01-07,Notebooks,4132.82,1,Sudeste,Site,4.3,4132.82
+20,2024-01-07,Smartphones,4805.66,1,Sul,Site,4.6,4805.66
+21,2024-01-07,Notebooks,7539.91,2,Centro-Oeste,Site,3.5,15079.82
+22,2024-01-08,Áudio,799.23,3,Nordeste,Marketplace,3.7,2397.69
+23,2024-01-09,TVs,3044.79,1,Sul,Loja Física,4.2,3044.79
+24,2024-01-09,TVs,3955.91,1,Norte,Marketplace,4.1,3955.91
+25,2024-01-09,Notebooks,7167.08,2,Centro-Oeste,Marketplace,4.2,14334.16
+26,2024-01-09,Acessórios,147.21,5,Sudeste,Site,4.6,736.05
+27,2024-01-09,Áudio,1235.93,1,Sul,Instagram,3.2,1235.93
+28,2024-01-10,Acessórios,122.8,5,Sul,Marketplace,4.6,614.0
+29,2024-01-10,Acessórios,142.94,1,Nordeste,Instagram,4.1,142.94
+30,2024-01-10,Smartphones,2294.99,2,Sudeste,Loja Física,4.0,4589.98
+31,2024-01-10,Notebooks,6541.91,1,Sudeste,Loja Física,3.4,6541.91
+32,2024-01-10,TVs,2490.58,1,Centro-Oeste,Site,4.4,2490.58
+33,2024-01-11,Áudio,1087.98,5,Norte,Loja Física,2.9,5439.9
+34,2024-01-11,Áudio,1311.97,4,Centro-Oeste,Marketplace,4.4,5247.88
+35,2024-01-12,Áudio,328.34,4,Norte,Marketplace,3.4,1313.36
+36,2024-01-12,Acessórios,139.02,2,Nordeste,Site,4.1,278.04
+37,2024-01-12,Acessórios,52.64,1,Nordeste,Instagram,4.0,52.64
+38,2024-01-12,Áudio,1129.72,1,Nordeste,Site,4.7,1129.72
+39,2024-01-12,Acessórios,50.76,2,Sul,Marketplace,4.0,101.52
+40,2024-01-12,Smartphones,4756.57,2,Sul,Site,3.8,9513.14
+41,2024-01-13,Áudio,335.5,3,Sudeste,Marketplace,3.8,1006.5
+42,2024-01-13,Notebooks,7773.84,1,Nordeste,Marketplace,4.7,7773.84
+43,2024-01-13,Smartphones,4243.36,1,Sudeste,Site,4.4,4243.36
+44,2024-01-13,Áudio,951.47,3,Sudeste,Site,3.9,2854.41
+45,2024-01-14,Notebooks,6804.43,1,Sul,Marketplace,4.0,6804.43
+46,2024-01-14,Notebooks,6873.13,2,Sul,Site,3.3,13746.26
+47,2024-01-14,Áudio,1427.14,5,Sudeste,Loja Física,4.3,7135.7
+48,2024-01-14,Acessórios,76.01,3,Centro-Oeste,Marketplace,3.2,228.03
+49,2024-01-14,Smartphones,3442.29,1,Centro-Oeste,Loja Física,4.5,3442.29
+50,2024-01-15,Acessórios,52.63,5,Sudeste,Loja Física,4.2,263.15
+51,2024-01-15,Acessórios,139.4,2,Sudeste,Loja Física,5.0,278.8
+52,2024-01-15,Acessórios,64.01,3,Sudeste,Site,3.5,192.03
+53,2024-01-15,Notebooks,5607.23,2,Nordeste,Marketplace,4.0,11214.46
+54,2024-01-15,Smartphones,3375.24,2,Centro-Oeste,Site,5.0,6750.48
+55,2024-01-15,Smartphones,2970.74,1,Sudeste,Site,4.7,2970.74
+56,2024-01-15,Notebooks,5374.47,1,Nordeste,Site,3.8,5374.47
+57,2024-01-16,Áudio,1181.3,2,Sudeste,Marketplace,4.2,2362.6
+58,2024-01-16,Smartphones,4237.13,2,Sudeste,Site,4.1,8474.26
+59,2024-01-17,Acessórios,115.26,3,Norte,Marketplace,4.2,345.78
+60,2024-01-17,Acessórios,135.97,5,Sudeste,Instagram,3.8,679.85
+61,2024-01-17,Smartphones,4738.7,1,Sudeste,Marketplace,4.1,4738.7
+62,2024-01-17,Áudio,311.64,5,Sul,Marketplace,3.3,1558.2
+63,2024-01-17,Smartphones,1644.99,1,Nordeste,Marketplace,4.2,1644.99
+64,2024-01-18,Notebooks,2982.4,2,Norte,Marketplace,4.3,5964.8
+65,2024-01-18,Smartphones,3699.88,2,Norte,Site,4.0,7399.76
+66,2024-01-19,Smartphones,2790.71,1,Sudeste,Marketplace,3.3,2790.71
+67,2024-01-19,Smartphones,4142.42,2,Sudeste,Loja Física,4.6,8284.84
+68,2024-01-19,Áudio,1056.16,2,Nordeste,Loja Física,4.3,2112.32
+69,2024-01-20,Acessórios,88.39,5,Sudeste,Marketplace,3.7,441.95
+70,2024-01-21,Áudio,1362.79,1,Centro-Oeste,Marketplace,4.0,1362.79
+71,2024-01-21,Acessórios,173.68,2,Nordeste,Instagram,3.3,347.36
+72,2024-01-22,Áudio,515.22,1,Sudeste,Loja Física,3.6,515.22
+73,2024-01-23,Notebooks,4503.06,2,Centro-Oeste,Loja Física,3.8,9006.12
+74,2024-01-23,Acessórios,85.36,4,Sudeste,Loja Física,4.7,341.44
+75,2024-01-23,Acessórios,62.07,4,Sul,Loja Física,3.8,248.28
+76,2024-01-23,Acessórios,60.69,4,Sul,Loja Física,4.4,242.76
+77,2024-01-23,Acessórios,234.48,4,Sul,Site,3.8,937.92
+78,2024-01-23,Smartphones,2864.04,2,Nordeste,Site,4.2,5728.08
+79,2024-01-23,Smartphones,2656.62,1,Nordeste,Marketplace,4.0,2656.62
+80,2024-01-23,Notebooks,6513.27,2,Norte,Loja Física,4.5,13026.54
+81,2024-01-24,Smartphones,3301.37,1,Norte,Marketplace,3.8,3301.37
+82,2024-01-24,Áudio,1413.79,4,Sul,Instagram,3.3,5655.16
+83,2024-01-24,Notebooks,6791.66,2,Sudeste,Site,3.4,13583.32
+84,2024-01-25,Acessórios,112.95,5,Nordeste,Site,3.8,564.75
+85,2024-01-26,Acessórios,95.28,2,Norte,Site,3.5,190.56
+86,2024-01-26,Acessórios,270.03,1,Sudeste,Marketplace,4.3,270.03
+87,2024-01-26,Smartphones,3927.49,2,Sul,Site,3.9,7854.98
+88,2024-01-26,Áudio,1434.11,2,Sul,Loja Física,5.0,2868.22
+89,2024-01-27,Acessórios,56.43,1,Sudeste,Marketplace,3.2,56.43
+90,2024-01-27,Áudio,1298.22,4,Nordeste,Marketplace,4.2,5192.88
+91,2024-01-27,Acessórios,143.83,2,Sudeste,Site,3.5,287.66
+92,2024-01-27,Smartphones,1663.3,1,Nordeste,Site,3.9,1663.3
+93,2024-01-28,Áudio,944.15,3,Centro-Oeste,Site,4.2,2832.45
+94,2024-01-28,Áudio,1076.23,1,Centro-Oeste,Site,2.9,1076.23
+95,2024-01-28,Áudio,166.61,5,Sul,Site,4.2,833.05
+96,2024-01-28,Smartphones,2926.41,1,Sudeste,Loja Física,5.0,2926.41
+97,2024-01-28,Áudio,1264.29,2,Nordeste,Marketplace,3.9,2528.58
+98,2024-01-29,Acessórios,82.4,4,Centro-Oeste,Loja Física,4.2,329.6
+99,2024-01-29,Acessórios,109.25,3,Sul,Instagram,4.6,327.75
+100,2024-01-29,TVs,3546.18,2,Centro-Oeste,Site,4.0,7092.36
+101,2024-01-30,TVs,2928.48,1,Sudeste,Marketplace,3.8,2928.48
+102,2024-01-30,Smartphones,4690.08,2,Centro-Oeste,Instagram,3.0,9380.16
+103,2024-01-30,Acessórios,178.77,4,Sudeste,Marketplace,4.4,715.08
+104,2024-01-30,TVs,2086.59,1,Sudeste,Marketplace,4.0,2086.59
+105,2024-01-30,Notebooks,7983.69,1,Sul,Site,3.6,7983.69
+106,2024-01-31,Smartphones,4540.96,2,Sudeste,Site,4.2,9081.92
+107,2024-01-31,Áudio,533.28,2,Sudeste,Site,3.8,1066.56
+108,2024-01-31,Acessórios,195.31,2,Sudeste,Loja Física,3.8,390.62
+109,2024-01-31,Acessórios,54.52,3,Sul,Marketplace,4.4,163.56
+110,2024-01-31,TVs,5996.06,1,Nordeste,Loja Física,3.4,5996.06
+111,2024-02-01,Áudio,1048.67,3,Sudeste,Marketplace,4.6,3146.01
+112,2024-02-02,Acessórios,146.67,2,Nordeste,Loja Física,3.4,293.34
+113,2024-02-02,Áudio,272.09,4,Centro-Oeste,Site,3.8,1088.36
+114,2024-02-02,Smartphones,4608.73,2,Sudeste,Site,5.0,9217.46
+115,2024-02-02,Acessórios,38.02,5,Sudeste,Instagram,4.7,190.1
+116,2024-02-03,Notebooks,3824.55,1,Centro-Oeste,Instagram,4.1,3824.55
+117,2024-02-03,Notebooks,3286.62,2,Centro-Oeste,Loja Física,3.6,6573.24
+118,2024-02-03,Smartphones,4151.72,2,Sul,Site,3.8,8303.44
+119,2024-02-03,Áudio,417.58,3,Centro-Oeste,Instagram,4.1,1252.74
+120,2024-02-04,Smartphones,4660.43,2,Sudeste,Site,4.1,9320.86
+121,2024-02-04,Smartphones,3693.82,1,Sudeste,Marketplace,4.1,3693.82
+122,2024-02-05,Smartphones,1337.42,1,Nordeste,Site,4.1,1337.42
+123,2024-02-05,Acessórios,27.8,3,Sudeste,Site,4.0,83.4
+124,2024-02-05,Áudio,219.74,5,Nordeste,Loja Física,3.4,1098.7
+125,2024-02-05,Acessórios,137.27,5,Sul,Loja Física,3.8,686.35
+126,2024-02-06,Áudio,1232.0,1,Nordeste,Loja Física,4.6,1232.0
+127,2024-02-06,Áudio,472.05,4,Sul,Loja Física,3.4,1888.2
+128,2024-02-06,Acessórios,199.4,1,Sudeste,Marketplace,4.0,199.4
+129,2024-02-06,Acessórios,45.32,4,Sudeste,Loja Física,3.7,181.28
+130,2024-02-06,Smartphones,4243.66,1,Sudeste,Loja Física,4.2,4243.66
+131,2024-02-06,Acessórios,230.34,3,Nordeste,Loja Física,3.9,691.02
+132,2024-02-06,TVs,4997.28,2,Sudeste,Site,4.8,9994.56
+133,2024-02-06,Smartphones,3852.86,1,Sudeste,Loja Física,4.4,3852.86
+134,2024-02-07,Áudio,1281.27,5,Sudeste,Site,3.4,6406.35
+135,2024-02-07,Smartphones,1352.57,1,Sudeste,Instagram,4.4,1352.57
+136,2024-02-07,Acessórios,68.4,5,Centro-Oeste,Site,3.7,342.0
+137,2024-02-08,TVs,2149.66,1,Sudeste,Marketplace,3.8,2149.66
+138,2024-02-09,Áudio,831.12,2,Norte,Loja Física,4.3,1662.24
+139,2024-02-09,Notebooks,6598.53,1,Sudeste,Marketplace,3.9,6598.53
+140,2024-02-09,Acessórios,142.32,3,Nordeste,Loja Física,4.5,426.96
+141,2024-02-09,Áudio,1299.03,3,Sul,Site,3.7,3897.09
+142,2024-02-10,Áudio,359.54,1,Sudeste,Marketplace,3.8,359.54
+143,2024-02-10,TVs,4832.33,1,Centro-Oeste,Instagram,3.8,4832.33
+144,2024-02-10,Smartphones,1933.56,2,Norte,Marketplace,3.8,3867.12
+145,2024-02-10,Áudio,515.52,1,Centro-Oeste,Loja Física,4.6,515.52
+146,2024-02-10,Acessórios,160.38,5,Sudeste,Instagram,4.4,801.9
+147,2024-02-10,Áudio,1473.28,5,Sudeste,Marketplace,5.0,7366.4
+148,2024-02-11,Smartphones,3523.87,2,Nordeste,Instagram,5.0,7047.74
+149,2024-02-11,Áudio,223.58,4,Sudeste,Site,3.6,894.32
+150,2024-02-11,Acessórios,139.43,3,Nordeste,Instagram,4.1,418.29
+151,2024-02-11,Notebooks,2732.93,1,Sul,Instagram,3.5,2732.93
+152,2024-02-12,TVs,5490.24,1,Sul,Marketplace,3.7,5490.24
+153,2024-02-12,Acessórios,160.3,3,Centro-Oeste,Loja Física,3.8,480.9
+154,2024-02-12,Smartphones,1857.89,2,Nordeste,Loja Física,3.6,3715.78
+155,2024-02-13,Acessórios,52.05,2,Sudeste,Marketplace,3.6,104.1
+156,2024-02-13,Smartphones,1897.43,1,Sudeste,Loja Física,4.0,1897.43
+157,2024-02-14,Acessórios,263.36,2,Nordeste,Instagram,3.5,526.72
+158,2024-02-14,Smartphones,2942.53,2,Sul,Loja Física,4.5,5885.06
+159,2024-02-14,Smartphones,4179.51,2,Sudeste,Site,3.6,8359.02
+160,2024-02-15,Notebooks,6000.25,1,Sul,Instagram,5.0,6000.25
+161,2024-02-16,Acessórios,130.49,1,Nordeste,Site,3.9,130.49
+162,2024-02-16,TVs,2238.57,2,Centro-Oeste,Site,4.1,4477.14
+163,2024-02-17,Acessórios,239.77,2,Sul,Instagram,3.5,479.54
+164,2024-02-17,Acessórios,83.32,2,Sudeste,Instagram,5.0,166.64
+165,2024-02-17,Smartphones,3396.47,2,Sudeste,Marketplace,4.7,6792.94
+166,2024-02-17,Áudio,1094.7,1,Sul,Site,4.2,1094.7
+167,2024-02-17,Notebooks,6070.78,2,Sudeste,Site,3.4,12141.56
+168,2024-02-17,Notebooks,7673.27,2,Sul,Marketplace,4.2,15346.54
+169,2024-02-17,Áudio,350.39,5,Nordeste,Site,3.5,1751.95
+170,2024-02-17,TVs,3836.75,2,Sudeste,Site,4.8,7673.5
+171,2024-02-18,Acessórios,99.88,5,Sudeste,Site,4.5,499.4
+172,2024-02-18,Smartphones,3001.84,2,Sudeste,Loja Física,4.1,6003.68
+173,2024-02-18,Acessórios,56.54,3,Centro-Oeste,Marketplace,2.9,169.62
+174,2024-02-19,TVs,2190.02,2,Nordeste,Marketplace,3.6,4380.04
+175,2024-02-19,Acessórios,79.74,5,Sudeste,Instagram,4.4,398.7
+176,2024-02-19,Acessórios,83.84,5,Centro-Oeste,Site,4.7,419.2
+177,2024-02-20,Áudio,727.67,5,Sul,Loja Física,4.7,3638.35
+178,2024-02-20,TVs,4288.35,1,Sul,Loja Física,3.3,4288.35
+179,2024-02-20,TVs,4392.37,2,Norte,Site,4.3,8784.74
+180,2024-02-21,Notebooks,4764.96,2,Sudeste,Site,4.6,9529.92
+181,2024-02-22,TVs,3398.65,2,Sudeste,Site,3.3,6797.3
+182,2024-02-22,TVs,2557.57,1,Sul,Site,4.1,2557.57
+183,2024-02-22,Smartphones,3435.56,1,Sudeste,Loja Física,4.2,3435.56
+184,2024-02-23,Áudio,578.01,5,Nordeste,Instagram,3.9,2890.05
+185,2024-02-23,Notebooks,2698.33,1,Sudeste,Site,3.2,2698.33
+186,2024-02-24,Smartphones,2789.92,2,Sudeste,Loja Física,3.9,5579.84
+187,2024-02-24,Áudio,790.08,3,Sudeste,Marketplace,3.9,2370.24
+188,2024-02-25,Acessórios,71.88,2,Sul,Instagram,4.0,143.76
+189,2024-02-25,Notebooks,5648.52,2,Sudeste,Marketplace,3.8,11297.04
+190,2024-02-25,Acessórios,129.18,5,Sudeste,Loja Física,3.9,645.9
+191,2024-02-25,TVs,4688.81,2,Centro-Oeste,Marketplace,4.1,9377.62
+192,2024-02-26,Acessórios,146.19,3,Sudeste,Site,4.3,438.57
+193,2024-02-26,Acessórios,147.17,5,Sudeste,Loja Física,3.9,735.85
+194,2024-02-27,Notebooks,4239.18,1,Sudeste,Site,3.9,4239.18
+195,2024-02-27,Acessórios,180.48,2,Sudeste,Loja Física,4.1,360.96
+196,2024-02-28,Acessórios,125.94,3,Sudeste,Loja Física,3.1,377.82
+197,2024-02-28,Smartphones,2839.39,1,Nordeste,Site,4.3,2839.39
+198,2024-02-28,Notebooks,5943.07,1,Sudeste,Marketplace,4.1,5943.07
+199,2024-02-28,Acessórios,92.72,1,Centro-Oeste,Site,4.1,92.72
+200,2024-02-28,Áudio,842.2,2,Norte,Site,4.6,1684.4
+201,2024-02-29,Notebooks,6551.88,1,Sudeste,Site,3.1,6551.88
+202,2024-02-29,TVs,5500.17,1,Sudeste,Loja Física,3.1,5500.17
+203,2024-02-29,Áudio,1393.43,2,Sudeste,Site,4.2,2786.86
+204,2024-02-29,Acessórios,117.36,2,Nordeste,Loja Física,4.1,234.72
+205,2024-02-29,Acessórios,120.45,1,Sudeste,Site,4.2,120.45
+206,2024-02-29,Acessórios,184.03,1,Centro-Oeste,Marketplace,3.9,184.03
+207,2024-03-01,Acessórios,85.36,2,Nordeste,Marketplace,4.4,170.72
+208,2024-03-01,Smartphones,4382.05,2,Centro-Oeste,Loja Física,4.6,8764.1
+209,2024-03-02,Acessórios,115.63,1,Sul,Instagram,4.3,115.63
+210,2024-03-02,Áudio,306.41,2,Norte,Marketplace,4.0,612.82
+211,2024-03-03,Smartphones,1473.82,1,Sudeste,Marketplace,3.0,1473.82
+212,2024-03-04,Smartphones,4399.57,1,Sul,Instagram,4.5,4399.57
+213,2024-03-05,Acessórios,44.95,2,Sudeste,Marketplace,4.7,89.9
+214,2024-03-05,Notebooks,4043.36,2,Norte,Marketplace,4.4,8086.72
+215,2024-03-05,Smartphones,2469.69,2,Sul,Marketplace,3.7,4939.38
+216,2024-03-05,Notebooks,3451.47,2,Centro-Oeste,Loja Física,4.4,6902.94
+217,2024-03-06,Acessórios,85.28,4,Sudeste,Site,4.5,341.12
+218,2024-03-06,Acessórios,168.5,3,Norte,Site,4.9,505.5
+219,2024-03-06,TVs,1664.6,1,Sul,Loja Física,3.7,1664.6
+220,2024-03-06,Áudio,1266.68,3,Sul,Loja Física,4.0,3800.04
+221,2024-03-07,Áudio,1306.34,5,Norte,Loja Física,4.5,6531.7
+222,2024-03-07,Áudio,652.55,5,Sudeste,Loja Física,4.1,3262.75
+223,2024-03-07,Smartphones,1783.73,2,Sudeste,Loja Física,3.5,3567.46
+224,2024-03-07,TVs,4243.7,2,Sul,Marketplace,4.3,8487.4
+225,2024-03-07,Acessórios,56.61,2,Sudeste,Site,4.4,113.22
+226,2024-03-07,TVs,3205.65,2,Sudeste,Site,4.1,6411.3
+227,2024-03-08,Acessórios,247.15,4,Sudeste,Marketplace,4.2,988.6
+228,2024-03-08,Smartphones,4982.76,2,Sudeste,Marketplace,4.0,9965.52
+229,2024-03-08,Smartphones,4134.0,1,Centro-Oeste,Marketplace,4.8,4134.0
+230,2024-03-08,Acessórios,84.82,4,Sul,Marketplace,3.6,339.28
+231,2024-03-08,Acessórios,155.12,3,Sudeste,Marketplace,3.8,465.36
+232,2024-03-08,Áudio,1102.3,1,Sul,Site,4.1,1102.3
+233,2024-03-08,TVs,3306.5,2,Sul,Loja Física,4.5,6613.0
+234,2024-03-09,Smartphones,3635.38,2,Nordeste,Site,3.4,7270.76
+235,2024-03-09,TVs,1647.2,2,Norte,Instagram,3.4,3294.4
+236,2024-03-10,Notebooks,3649.82,2,Norte,Marketplace,3.1,7299.64
+237,2024-03-10,Áudio,858.87,3,Sudeste,Site,4.1,2576.61
+238,2024-03-10,Notebooks,3400.63,1,Sudeste,Loja Física,3.5,3400.63
+239,2024-03-11,Acessórios,63.25,2,Sul,Site,3.9,126.5
+240,2024-03-11,Acessórios,195.12,5,Sul,Site,4.4,975.6
+241,2024-03-12,Notebooks,7940.23,1,Sul,Site,3.8,7940.23
+242,2024-03-12,Notebooks,5557.83,2,Nordeste,Site,4.2,11115.66
+243,2024-03-12,Acessórios,196.01,5,Sul,Marketplace,4.0,980.05
+244,2024-03-13,Smartphones,4963.22,1,Sudeste,Loja Física,4.4,4963.22
+245,2024-03-14,Smartphones,1738.06,1,Sudeste,Marketplace,4.3,1738.06
+246,2024-03-14,Notebooks,4965.35,2,Sudeste,Instagram,3.8,9930.7
+247,2024-03-14,Smartphones,2691.78,2,Sudeste,Site,4.0,5383.56
+248,2024-03-15,Áudio,258.07,5,Sudeste,Site,4.6,1290.35
+249,2024-03-15,Áudio,1169.7,4,Nordeste,Marketplace,4.3,4678.8
+250,2024-03-15,Áudio,735.6,1,Sudeste,Site,3.4,735.6
+251,2024-03-15,Smartphones,2983.44,2,Sudeste,Marketplace,4.4,5966.88
+252,2024-03-16,Notebooks,3328.7,2,Sul,Site,3.6,6657.4
+253,2024-03-16,Áudio,394.25,1,Nordeste,Instagram,4.8,394.25
+254,2024-03-16,Acessórios,220.99,2,Sudeste,Marketplace,4.6,441.98
+255,2024-03-16,Acessórios,42.36,3,Centro-Oeste,Site,4.2,127.08
+256,2024-03-17,Notebooks,3780.69,1,Norte,Site,4.2,3780.69
+257,2024-03-17,Notebooks,4106.33,1,Sul,Marketplace,4.0,4106.33
+258,2024-03-17,Acessórios,114.91,3,Nordeste,Site,4.4,344.73
+259,2024-03-17,Acessórios,133.29,2,Sudeste,Loja Física,3.9,266.58
+260,2024-03-17,Smartphones,3074.5,2,Norte,Loja Física,4.2,6149.0
+261,2024-03-17,Acessórios,50.69,4,Sudeste,Site,4.5,202.76
+262,2024-03-18,Notebooks,3840.17,1,Norte,Marketplace,3.8,3840.17
+263,2024-03-19,Áudio,1288.84,1,Sul,Marketplace,3.8,1288.84
+264,2024-03-19,Acessórios,143.94,1,Sudeste,Loja Física,3.5,143.94
+265,2024-03-19,TVs,4456.26,2,Sudeste,Marketplace,3.6,8912.52
+266,2024-03-20,Acessórios,151.13,1,Nordeste,Site,3.2,151.13
+267,2024-03-20,Acessórios,173.77,4,Sul,Site,4.5,695.08
+268,2024-03-20,Acessórios,45.51,2,Sudeste,Loja Física,5.0,91.02
+269,2024-03-20,Acessórios,93.69,4,Nordeste,Marketplace,4.8,374.76
+270,2024-03-20,Acessórios,124.09,1,Centro-Oeste,Site,3.3,124.09
+271,2024-03-21,Acessórios,89.15,5,Sul,Site,4.5,445.75
+272,2024-03-21,Acessórios,197.77,4,Sul,Loja Física,4.8,791.08
+273,2024-03-21,Acessórios,113.53,3,Sudeste,Marketplace,3.9,340.59
+274,2024-03-22,Smartphones,4120.78,1,Nordeste,Site,4.2,4120.78
+275,2024-03-22,Smartphones,4437.66,2,Sudeste,Loja Física,3.1,8875.32
+276,2024-03-23,Áudio,831.47,2,Centro-Oeste,Instagram,4.2,1662.94
+277,2024-03-23,Áudio,1377.9,3,Sudeste,Loja Física,3.6,4133.7
+278,2024-03-23,Áudio,942.62,2,Sul,Site,4.2,1885.24
+279,2024-03-23,Notebooks,7176.51,1,Sudeste,Site,3.3,7176.51
+280,2024-03-24,Notebooks,4373.25,2,Sudeste,Loja Física,4.4,8746.5
+281,2024-03-24,Acessórios,116.48,1,Nordeste,Loja Física,4.6,116.48
+282,2024-03-25,Acessórios,122.55,1,Sul,Marketplace,3.7,122.55
+283,2024-03-25,Acessórios,54.29,2,Sul,Instagram,3.5,108.58
+284,2024-03-25,Acessórios,98.96,1,Norte,Instagram,3.0,98.96
+285,2024-03-25,Smartphones,4685.88,2,Norte,Marketplace,4.0,9371.76
+286,2024-03-26,Áudio,1001.62,5,Centro-Oeste,Loja Física,3.8,5008.1
+287,2024-03-26,Acessórios,64.9,1,Sudeste,Loja Física,3.3,64.9
+288,2024-03-26,Áudio,607.46,1,Sul,Marketplace,4.3,607.46
+289,2024-03-26,Smartphones,1928.09,1,Centro-Oeste,Site,3.9,1928.09
+290,2024-03-26,Acessórios,36.67,3,Sudeste,Instagram,3.6,110.01
+291,2024-03-27,Notebooks,7601.03,2,Sudeste,Marketplace,3.8,15202.06
+292,2024-03-27,Acessórios,107.44,3,Centro-Oeste,Site,4.6,322.32
+293,2024-03-28,TVs,2953.15,1,Sul,Loja Física,4.4,2953.15
+294,2024-03-29,Acessórios,135.74,2,Sul,Site,4.0,271.48
+295,2024-03-29,Notebooks,2540.23,1,Norte,Site,4.4,2540.23
+296,2024-03-29,TVs,2823.3,1,Nordeste,Loja Física,3.5,2823.3
+297,2024-03-29,TVs,4693.35,2,Sul,Site,4.1,9386.7
+298,2024-03-29,Notebooks,5985.73,1,Sudeste,Marketplace,4.2,5985.73
+299,2024-03-30,Notebooks,7899.93,1,Sul,Marketplace,3.9,7899.93
+300,2024-03-30,Smartphones,3557.36,2,Sudeste,Marketplace,4.3,7114.72
